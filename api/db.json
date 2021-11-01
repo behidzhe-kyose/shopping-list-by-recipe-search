@@ -1,0 +1,70 @@
+{
+  "shopping": [
+    {
+      "userId": "117271002061554778248",
+      "item": "lemon rind",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "puff pastry",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "ginger",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "bread crumbs",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "parmesan cheese",
+      "completed": false,
+      "id": 18
+    },
+    {
+      "userId": null,
+      "item": "boneless chicken breast",
+      "completed": false,
+      "id": 19
+    },
+    {
+      "userId": null,
+      "item": "boneless chicken breast",
+      "completed": false,
+      "id": 20
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "cod filet",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "rice",
+      "completed": false,
+      "id": 35
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "oyster sauce",
+      "completed": false,
+      "id": 36
+    },
+    {
+      "userId": "117271002061554778248",
+      "item": "white pepper",
+      "completed": false,
+      "id": 37
+    }
+  ]
+}
